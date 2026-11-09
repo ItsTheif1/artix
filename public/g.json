@@ -1,354 +1,76 @@
 {
   "games": [
-   {
-      "name": "SUGGEST GAMES",
-      "filepath": "./g/SUGGEST GAMES/index.html",
-      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAAAflBMVEVnOrf////6+vpeNbGzndtfK7S6rNtlN7ZiN7NUJa63q9lhL7X+//xjM7avmNnb1Ovm4vBwSbtWGLHt6PR3UL6Ncseaf8/z8fdaL7DYzuuq"
-    },
-    {
-      "name": "Something",
-      "filepath": "./g/something/index.html",
-      "icon": "./g/something/icon.png"
-    },
-    {
-      "name": "Karlson",
-      "filepath": "./g/karlson/index.html",
-      "icon": "./g/karlson/icon.png"
-    },
-    {
-      "name": "Milkman Karlson",
-      "filepath": "./g/milkman/index.html",
-      "icon": "./g/milkman/icon.png"
-    },
-    {
-      "name": "angrybirds",
-      "filepath": "./g/angrybirds/index.html",
-      "icon": "./g/angrybirds/icon.png"
-    },
-    {
-      "name": "nzp",
-      "filepath": "./g/nzp/index.html",
-      "icon": "./g/nzp/icon.png"
-    },
-    {
-      "name": "ULTRAKILL",
-      "filepath": "./g/ULTRAKILL/index.html",
-      "icon": "./g/ULTRAKILL/icon.png"
-    },
-    {
-      "name": "tabs",
-      "filepath": "./g/tabs/index.html",
-      "icon": "./g/tabs/icon.png"
-    },
-    {
-      "name": "whos your daddy",
-      "filepath": "./g/whos your daddy/index.html",
-      "icon": "./g/whos your daddy/icon.png"
-    },
-    {
-      "name": "Super Mario FPS",
-      "filepath": "./g/smfps/index.html",
-      "icon": "./g/smfps/icon.png"
-    },
-     {
-      "name": "Slope",
-      "filepath": "./g/slope/index.html",
-      "icon": "./g/slope/icon.png"
-    },
-     {
-      "name": "Plants VS Zombies 2",
-      "filepath": "./g/pvz2/index.html",
-      "icon": "./g/pvz2/icon.png"
-    },
-     {
-      "name": "Cookie Clicker",
-      "filepath": "./g/Cookie Clicker/index.html",
-      "icon": "./g/Cookie Clicker/icon.png"
-     },
-    {
-      "name": "volley random",
-      "filepath": "./g/volley random/index.html",
-      "icon": "./g/volley random/icon.png"
-     },
-    {
-      "name": "tomodachi life",
-      "filepath": "./g/tomodachi life/index.html",
-      "icon": "./g/tomodachi life/icon.png"
-     },
-    {
-      "name": "tomb of the mask (owner fav)",
-      "filepath": "./g/tomb of the mask (owner fav)/index.html",
-      "icon": "./g/tomb of the mask (owner fav)/icon.png"
-     },
-       {
-      "name": "minecraft",
-      "filepath": "./g/minecraft/index.html",
-      "icon": "./g/minecraft/icon.png"
-     },
-       {
-      "name": "slow roads",
-      "filepath": "./g/slow roads/index.html",
-      "icon": "./g/slow roads/icon.png"
-     },
-       {
-      "name": "soccer random",
-      "filepath": "./g/soccer random/index.html",
-      "icon": "./g/soccer random/icon.png"
-     },
-       {
-      "name": "subway surfers",
-      "filepath": "./g/subway surfers/index.html",
-      "icon": "./g/subway surfers/icon.png"
-     },
-       {
-      "name": "superhot",
-      "filepath": "./g/superhot/index.html",
-      "icon": "./g/superhot/icon.png"
-     },
-       {
-      "name": "basket random",
-      "filepath": "./g/basket random/index.html",
-      "icon": "./g/basket random/icon.png"
-     },
-       {
-      "name": "celeste",
-      "filepath": "./g/celeste/index.html",
-      "icon": "./g/celeste/icon.png"
-     },
-       {
-      "name": "fruit ninja",
-      "filepath": "./g/fruit ninja/index.html",
-      "icon": "./g/fruit ninja/icon.png"
-     },
-     {
-      "name": "deltarune (TAKES LONG)",
-      "filepath": "./g/deltarune/index.html",
-      "icon": "./g/deltarune/icon.png"
-     },
-     {
-      "name": "hollow knight",
-      "filepath": "./g/hollow knight/index.html",
-      "icon": "https://i.namu.wiki/i/7u-TfLK_jeVwBwb5SozyAdgNv_2KuPgsjTKtbFsvLLoztdjaIBrG67RmxtzJzZo1PgnCf4kGIdY4QMhVww7Q1A.webp"
-     },
-     {
-      "name": "hollow knight silksong",
-      "filepath": "./g/hollow knight silksong/index.html",
-      "icon": "https://upload.wikimedia.org/wikipedia/en/0/05/Silksong.jpg"
-     },
-      {
-      "name": "web fishing",
-      "filepath": "./g/web fishing/index.html",
-      "icon": "https://howlongtobeat.com/games/158224_Webfishing.jpg?width=250"
-    },
-      {
-      "name": "just shapes and beats",
-      "filepath": "./g/just shapes and beats/index.html",
-      "icon": "https://image.api.playstation.com/cdn/UP0060/CUSA10349_00/oCjfxhBPJJuWBO0axtCyzl7HJLK0l8Zm.png?w=440"
-    },
-      {
-      "name": "crazy cattle 3d",
-      "filepath": "./g/crazy cattle 3d/index.html",
-      "icon": "https://crazychicken3d.io/data/image/game/crazy-cattle-3d-game.png"
-    },
-      {
-      "name": "we become what we behold",
-      "filepath": "./g/we become what we behold/index.html",
-      "icon": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/a0929e5428c5af2666c9eeb3a0441d4c/we-become-what-we-behold-logo.png"
-    },
-    {
-      "name": "untitle goose game",
-      "filepath": "./g/untitle goose game/index.html",
-      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Untitled_Goose_Game_Cover_art.jpg/250px-Untitled_Goose_Game_Cover_art.jpg"
-    },
-    {
-      "name": "cuphead",
-      "filepath": "./g/cuphead/index.html",
-      "icon": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/i6yoNS8R925bXaxk3F3vAX.jpg"
-    },
-    {
-      "name": "stardew valley",
-      "filepath": "./g/stardew valley/index.html",
-      "icon": "https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/News/_nc4/Stardew-Valley-2-q82-w2560-h.webp"
-    },
-     {
-      "name": "cat goes fishing",
-      "filepath": "./g/cat goes fishing/index.html",
-      "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3mxz.jpg"
-    },
-    {
-      "name": "thats not my neighbor",
-      "filepath": "./g/thats not my neighbor/index.html",
-      "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3431040/header.jpg?t=1763509556"
-    },
-    {
-      "name": "geo dash",
-      "filepath": "./g/geometry dash/index.html",
-      "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3N"
-    },
-    {
-      "name": "SuperTuxKart",
-      "filepath": "./g/supertuxkart/index.html",
-      "icon": "https://i.postimg.cc/9FSW-Q2X9/image.png"
-    },
-    {
-      "name": "Sooper Fighterz",
-      "filepath": "./g/sooperfighter/index.html",
-      "icon": "./g/sooperfighter/icon.png"
-    },
-    {
-      "name": "Baldi cornball mod",
-      "filepath": "./g/cornball/index.html",
-      "icon": "./g/cornball/icon.png"
-    },
-     {
-      "name": "zombotron reboot",
-      "filepath": "./g/zombotron reboot/index.html",
-      "icon": "https://play-lh.googleusercontent.com/LdOl3jDNhctUS1K5m0WYEuTttjCwXrqRMrJteU9T7nCCmvZXrbCpvMaOCjCVl2BEYEoQxUm24Qo-eLuP4gGE"
-    },
-    {
-      "name": "batim",
-      "filepath": "./g/batim/index.html",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFfF3337sIZ_tGtXS-PQvBk3K-mnFigz9bmewRgStaw&s=10"
-    },
-    {
-      "name": "1v1.lol",
-      "filepath": "./g/1v1.lol/index.html",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwEaEeiMfkXELEXqopOaFjAO7x762S7mnZOHcx-ZAhw&s=10"
-    },
-     {
-      "name": "gta3",
-      "filepath": "./g/gta3/index.html",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCVoLnyZeA5EQ85iJN1cZ2PQMbBtuOFBMgFLp_7rapw&s=10"
-     },
-       {
-      "name": "murder",
-      "filepath": "./g/murder/index.html",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpi7iX1zqYLOmz1LrYMBbMTD2JKIjZpnq-PJ_UEddb3Q&s=10"
-     },
-     {
-      "name": "Bendy and the Ink Machine",
-      "filepath": "https://wasm.rip/files/BATIM/index.html",
-      "icon": "https://wasm.rip/img/batim.png"
-    },
-    {
-      "name": "MiSide",
-      "filepath": "https://wasm.rip/files/miside/miside.html",
-      "icon": "https://wasm.rip/img/miside.jpg"
-    },
-    {
-      "name": "Baldi's Basics Birthday Bash",
-      "filepath": "https://wasm.rip/files/birthdaybash/index.html",
-      "icon": "https://wasm.rip/img/bdaybash.png"
-    },
-    {
-      "name": "Boil Noodles at Night",
-      "filepath": "https://wasm.rip/files/boilnoodles/index.html",
-      "icon": "https://wasm.rip/img/noodle.png"
-    },
-    {
-      "name": "Cheese Rolling",
-      "filepath": "https://wasm.rip/files/cheese-rolling/index.html",
-      "icon": "https://wasm.rip/img/cheeserolling.png"
-    },
-    {
-      "name": "Brotato Paws n' Claws",
-      "filepath": "https://wasm.rip/files/bpac/index.html",
-      "icon": "https://wasm.rip/img/bpac.png"
-    },
-    {
-      "name": "One Shot: World Machine Edition",
-      "filepath": "https://wasm.rip/files/oneshot-wme/index.html",
-      "icon": "https://wasm.rip/img/oneshot.jpg"
-    },
-    {
-      "name": "Helltaker",
-      "filepath": "https://wasm.rip/files/Helltaker/helltaker.html",
-      "icon": "https://wasm.rip/img/helltaker.png"
-    },
-    {
-      "name": "Dice A Million",
-      "filepath": "https://wasm.rip/files/diceAmillion/diceamillion.html",
-      "icon": "https://wasm.rip/img/diceamillion.png"
-    },
-    {
-      "name": "The Man From The Window 2",
-      "filepath": "https://wasm.rip/files/MFDW2/index.html",
-      "icon": "https://wasm.rip/img/The_Man_from_the_Window_2_29.webp"
-    },
-    {
-      "name": "Fez",
-      "filepath": "https://wasm.rip/files/FEZ/fez.html",
-      "icon": "https://wasm.rip/img/FEZ.png"
-    },
-    {
-      "name": "Beatblock",
-      "filepath": "https://wasm.rip/files/beatblock/index.html",
-      "icon": "https://wasm.rip/img/beatblock.jpg"
-    },
-    {
-      "name": "Azahar",
-      "filepath": "https://wasm.rip/files/Azahar/index.html",
-      "icon": "https://wasm.rip/img/aza.png"
-    },
-    {
-      "name": "Ravenfield",
-      "filepath": "https://wasm.rip/files/ravenfield/index.html",
-      "icon": "https://wasm.rip/img/ravenfield.png"
-    },
-    {
-      "name": "Happy Room",
-      "filepath": "https://wasm.rip/files/happy-room/index.html",
-      "icon": "https://wasm.rip/img/happy-room.png"
-    },
-    {
-      "name": "Ages of Conflict",
-      "filepath": "https://wasm.rip/files/aoc/index.html",
-      "icon": "https://wasm.rip/img/aoc.png"
-    },
-    {
-      "name": "While True: Learn()",
-      "filepath": "https://wasm.rip/files/wtl/index.html",
-      "icon": "https://wasm.rip/img/wtl.png"
-    },
-    {
-      "name": "The Adventures Of Sir Kicksalot",
-      "filepath": "https://wasm.rip/files/sirkicksalot/index.html",
-      "icon": "https://wasm.rip/img/sirkicksalot.png"
-    },
-    {
-      "name": "Plauge Inc",
-      "filepath": "https://wasm.rip/files/plauge/index.html",
-      "icon": "https://wasm.rip/img/plauge.png"
-    },
-    {
-      "name": "Trombone Champ",
-      "filepath": "https://wasm.rip/files/tchamp/index.html",
-      "icon": "https://wasm.rip/img/tchamp/img.png"
-    },
-    {
-      "name": "Granny 3",
-      "filepath": "https://wasm.rip/files/granny/granny3.html",
-      "icon": "https://wasm.rip/img/granny3.png"
-    },
-    {
-      "name": "PEAK (VERY wip)",
-      "filepath": "https://wasm.rip/files/peak/PEAK.html",
-      "icon": "https://wasm.rip/img/peak.png"
-    },
-    {
-      "name": "Among Us",
-      "filepath": "https://wasm.rip/files/amongus/index.html",
-      "icon": "https://wasm.rip/img/amongus.webp"
-    },
-    {
-      "name": "Freddy In Space 2",
-      "filepath": "https://wasm.rip/files/freddyinspace2/index.html",
-      "icon": "https://wasm.rip/img/fis2.png"
-    },
-    {
-      "name": "AntonBlast",
-      "filepath": "https://wasm.rip/files/antonblast/index.html",
-      "icon": "https://wasm.rip/img/anton.jpg"
-    }
+    { "name": "SUGGEST GAMES", "filepath": "./g/SUGGEST GAMES/index.html", "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='18' fill='%236b4eff'/%3E%3Ctext x='50' y='66' text-anchor='middle' font-size='58' fill='white'%3E%2B%3C/text%3E%3C/svg%3E" },
+    { "name": "Something", "filepath": "./g/something/index.html", "icon": "./g/something/icon.png" },
+    { "name": "Karlson", "filepath": "./g/karlson/index.html", "icon": "./g/karlson/icon.png" },
+    { "name": "Milkman Karlson", "filepath": "./g/milkman/index.html", "icon": "./g/milkman/icon.png" },
+    { "name": "angrybirds", "filepath": "./g/angrybirds/index.html", "icon": "./g/angrybirds/icon.png" },
+    { "name": "nzp", "filepath": "./g/nzp/index.html", "icon": "./g/nzp/icon.png" },
+    { "name": "ULTRAKILL", "filepath": "./g/ULTRAKILL/index.html", "icon": "./g/ULTRAKILL/icon.png" },
+    { "name": "tabs", "filepath": "./g/tabs/index.html", "icon": "./g/tabs/icon.png" },
+    { "name": "whos your daddy", "filepath": "./g/whos your daddy/index.html", "icon": "./g/whos your daddy/icon.png" },
+    { "name": "Super Mario FPS", "filepath": "./g/smfps/index.html", "icon": "./g/smfps/icon.png" },
+    { "name": "Slope", "filepath": "./g/slope/index.html", "icon": "./g/slope/icon.png" },
+    { "name": "Plants VS Zombies 2", "filepath": "./g/pvz2/index.html", "icon": "./g/pvz2/icon.png" },
+    { "name": "Cookie Clicker", "filepath": "./g/Cookie Clicker/index.html", "icon": "./g/Cookie Clicker/icon.png" },
+    { "name": "volley random", "filepath": "./g/volley random/index.html", "icon": "./g/volley random/icon.png" },
+    { "name": "tomodachi life", "filepath": "./g/tomodachi life/index.html", "icon": "./g/tomodachi life/icon.png" },
+    { "name": "tomb of the mask (owner fav)", "filepath": "./g/tomb of the mask (owner fav)/index.html", "icon": "./g/tomb of the mask (owner fav)/icon.png" },
+    { "name": "minecraft", "filepath": "./g/minecraft/index.html", "icon": "./g/minecraft/icon.png" },
+    { "name": "slow roads", "filepath": "./g/slow roads/index.html", "icon": "./g/slow roads/icon.png" },
+    { "name": "soccer random", "filepath": "./g/soccer random/index.html", "icon": "./g/soccer random/icon.png" },
+    { "name": "subway surfers", "filepath": "./g/subway surfers/index.html", "icon": "./g/subway surfers/icon.png" },
+    { "name": "superhot", "filepath": "./g/superhot/index.html", "icon": "./g/superhot/icon.png" },
+    { "name": "basket random", "filepath": "./g/basket random/index.html", "icon": "./g/basket random/icon.png" },
+    { "name": "celeste", "filepath": "./g/celeste/index.html", "icon": "./g/celeste/icon.png" },
+    { "name": "fruit ninja", "filepath": "./g/fruit ninja/index.html", "icon": "./g/fruit ninja/icon.png" },
+    { "name": "deltarune (TAKES LONG)", "filepath": "./g/deltarune/index.html", "icon": "./g/deltarune/icon.png" },
+    { "name": "hollow knight", "filepath": "./g/hollow knight/index.html", "icon": "https://i.namu.wiki/i/7u-TfLK_jeVwBwb5SozyAdgNv_2KuPgsjTKtbFsvLLoztdjaIBrG67RmxtzJzZo1PgnCf4kGIdY4QMhVww7Q1A.webp" },
+    { "name": "hollow knight silksong", "filepath": "./g/hollow knight silksong/index.html", "icon": "https://upload.wikimedia.org/wikipedia/en/0/05/Silksong.jpg" },
+    { "name": "web fishing", "filepath": "./g/web fishing/index.html", "icon": "https://howlongtobeat.com/games/158224_Webfishing.jpg?width=250" },
+    { "name": "just shapes and beats", "filepath": "./g/just shapes and beats/index.html", "icon": "https://image.api.playstation.com/cdn/UP0060/CUSA10349_00/oCjfxhBPJJuWBO0axtCyzl7HJLK0l8Zm.png?w=440" },
+    { "name": "crazy cattle 3d", "filepath": "./g/crazy cattle 3d/index.html", "icon": "https://crazychicken3d.io/data/image/game/crazy-cattle-3d-game.png" },
+    { "name": "we become what we behold", "filepath": "./g/we become what we behold/index.html", "icon": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/a0929e5428c5af2666c9eeb3a0441d4c/we-become-what-we-behold-logo.png" },
+    { "name": "untitle goose game", "filepath": "./g/untitle goose game/index.html", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Untitled_Goose_Game_Cover_art.jpg/250px-Untitled_Goose_Game_Cover_art.jpg" },
+    { "name": "cuphead", "filepath": "./g/cuphead/index.html", "icon": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/i6yoNS8R925bXaxk3F3vAX.jpg" },
+    { "name": "stardew valley", "filepath": "./g/stardew valley/index.html", "icon": "https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/News/_nc4/Stardew-Valley-2-q82-w2560-h.webp" },
+    { "name": "cat goes fishing", "filepath": "./g/cat goes fishing/index.html", "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3mxz.jpg" },
+    { "name": "thats not my neighbor", "filepath": "./g/thats not my neighbor/index.html", "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3431040/header.jpg?t=1763509556" },
+    { "name": "geo dash", "filepath": "./g/geometry dash/index.html", "icon": "https://upload.wikimedia.org/wikipedia/en/4/4d/Geometry_Dash_Logo.PNG" },
+    { "name": "SuperTuxKart", "filepath": "./g/supertuxkart/index.html", "icon": "https://i.postimg.cc/9FSW-Q2X9/image.png" },
+    { "name": "Sooper Fighterz", "filepath": "./g/sooperfighter/index.html", "icon": "./g/sooperfighter/icon.png" },
+    { "name": "Baldi cornball mod", "filepath": "./g/cornball/index.html", "icon": "./g/cornball/icon.png" },
+    { "name": "zombotron reboot", "filepath": "./g/zombotron reboot/index.html", "icon": "https://play-lh.googleusercontent.com/LdOl3jDNhctUS1K5m0WYEuTttjCwXrqRMrJteU9T7nCCmvZXrbCpvMaOCjCVl2BEYEoQxUm24Qo-eLuP4gGE" },
+    { "name": "batim", "filepath": "./g/batim/index.html", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFfF3337sIZ_tGtXS-PQvBk3K-mnFigz9bmewRgStaw&s=10" },
+    { "name": "1v1.lol", "filepath": "./g/1v1.lol/index.html", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwEaEeiMfkXELEXqopOaFjAO7x762S7mnZOHcx-ZAhw&s=10" },
+    { "name": "gta3", "filepath": "./g/gta3/index.html", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCVoLnyZeA5EQ85iJN1cZ2PQMbBtuOFBMgFLp_7rapw&s=10" },
+    { "name": "murder", "filepath": "./g/murder/index.html", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpi7iX1zqYLOmz1LrYMBbMTD2JKIjZpnq-PJ_UEddb3Q&s=10" },
+    { "name": "Bendy and the Ink Machine", "filepath": "https://wasm.rip/files/BATIM/index.html", "icon": "https://wasm.rip/img/batim.png" },
+    { "name": "MiSide", "filepath": "https://wasm.rip/files/miside/miside.html", "icon": "https://wasm.rip/img/miside.jpg" },
+    { "name": "Baldi's Basics Birthday Bash", "filepath": "https://wasm.rip/files/birthdaybash/index.html", "icon": "https://wasm.rip/img/bdaybash.png" },
+    { "name": "Boil Noodles at Night", "filepath": "https://wasm.rip/files/boilnoodles/index.html", "icon": "https://wasm.rip/img/noodle.png" },
+    { "name": "Cheese Rolling", "filepath": "https://wasm.rip/files/cheese-rolling/index.html", "icon": "https://wasm.rip/img/cheeserolling.png" },
+    { "name": "Brotato Paws n' Claws", "filepath": "https://wasm.rip/files/bpac/index.html", "icon": "https://wasm.rip/img/bpac.png" },
+    { "name": "One Shot: World Machine Edition", "filepath": "https://wasm.rip/files/oneshot-wme/index.html", "icon": "https://wasm.rip/img/oneshot.jpg" },
+    { "name": "Helltaker", "filepath": "https://wasm.rip/files/Helltaker/helltaker.html", "icon": "https://wasm.rip/img/helltaker.png" },
+    { "name": "Dice A Million", "filepath": "https://wasm.rip/files/diceAmillion/diceamillion.html", "icon": "https://wasm.rip/img/diceamillion.png" },
+    { "name": "The Man From The Window 2", "filepath": "https://wasm.rip/files/MFDW2/index.html", "icon": "https://wasm.rip/img/The_Man_from_the_Window_2_29.webp" },
+    { "name": "Fez", "filepath": "https://wasm.rip/files/FEZ/fez.html", "icon": "https://wasm.rip/img/FEZ.png" },
+    { "name": "Beatblock", "filepath": "https://wasm.rip/files/beatblock/index.html", "icon": "https://wasm.rip/img/beatblock.jpg" },
+    { "name": "Azahar", "filepath": "https://wasm.rip/files/Azahar/index.html", "icon": "https://wasm.rip/img/aza.png" },
+    { "name": "Ravenfield", "filepath": "https://wasm.rip/files/ravenfield/index.html", "icon": "https://wasm.rip/img/ravenfield.png" },
+    { "name": "Happy Room", "filepath": "https://wasm.rip/files/happy-room/index.html", "icon": "https://wasm.rip/img/happy-room.png" },
+    { "name": "Ages of Conflict", "filepath": "https://wasm.rip/files/aoc/index.html", "icon": "https://wasm.rip/img/aoc.png" },
+    { "name": "While True: Learn()", "filepath": "https://wasm.rip/files/wtl/index.html", "icon": "https://wasm.rip/img/wtl.png" },
+    { "name": "The Adventures Of Sir Kicksalot", "filepath": "https://wasm.rip/files/sirkicksalot/index.html", "icon": "https://wasm.rip/img/sirkicksalot.png" },
+    { "name": "Plauge Inc", "filepath": "https://wasm.rip/files/plauge/index.html", "icon": "https://wasm.rip/img/plauge.png" },
+    { "name": "Trombone Champ", "filepath": "https://wasm.rip/files/tchamp/index.html", "icon": "https://wasm.rip/img/tchamp/img.png" },
+    { "name": "Granny 3", "filepath": "https://wasm.rip/files/granny/granny3.html", "icon": "https://wasm.rip/img/granny3.png" },
+    { "name": "PEAK (VERY wip)", "filepath": "https://wasm.rip/files/peak/PEAK.html", "icon": "https://wasm.rip/img/peak.png" },
+    { "name": "Among Us", "filepath": "https://wasm.rip/files/amongus/index.html", "icon": "https://wasm.rip/img/amongus.webp" },
+    { "name": "Freddy In Space 2", "filepath": "https://wasm.rip/files/freddyinspace2/index.html", "icon": "https://wasm.rip/img/fis2.png" },
+    { "name": "AntonBlast", "filepath": "https://wasm.rip/files/antonblast/index.html", "icon": "https://wasm.rip/img/anton.jpg" },
+    { "name": "Stickman Hook", "filepath": "./g/stickman hook/index.html", "icon": "https://cdn.jsdelivr.net/gh/genizy/UGS-Assets@main/stickman%20hook/images/40e0f1c38d1a31bb28123e4ed6fe1af6-title.png" },
+    { "name": "Monkey Mart", "filepath": "./g/monkey mart/index.html", "icon": "https://cdn.jsdelivr.net/gh/genizy/UGS-Assets@main/monkey%20mart%20v6.3/logo.png" }
   ]
 }
