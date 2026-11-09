@@ -9,4 +9,4 @@
 
 ## 💜 Credits
 
-Palladium's portal is maintained in this repository. Game files and assets are credited to their respective creators and sources; UGS launchers reference [genizy/UGS-Assets](https://github.com/genizy/UGS-Assets).
+Artix is maintained in this repository. Game files and assets are credited to their respective creators and sources; UGS  reference [genizy/UGS-Assets](https://github.com/genizy/UGS-Assets).
